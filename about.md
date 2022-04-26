@@ -16,5 +16,5 @@ Details of my publications can be found on my <a href="https://scholar.google.co
 
 ### Teaching
 Queen Mary University of London:
-- Big Data Processing (ECS640U) - Fall'20 (TA)
-- Machine Learning (ECS708P) - Fall'20 (TA)
+- Big Data Processing (ECS640U) - Fall'21 (TA)
+- Machine Learning (ECS708P) - Fall'21 (TA)
