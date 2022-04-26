@@ -19,18 +19,18 @@ avatar: https://github.com/FouadSakr/FouadSakr.github.io/blob/master/profile2.jp
 footer-links:
   dribbble:
   email: f.sakr@qmul.ac.uk
-  facebook: https://www.facebook.com/fouad.sakr.714
+  facebook: 
   flickr:
-  github: FouadSakr
+  github: https://github.com/FouadSakr
   instagram:
   linkedin: https://www.linkedin.com/in/fouad-sakr
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: sarsanaee
+  twitter: https://twitter.com/Fouad__Sakr
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  scholar: x3TEgPQAAAAJ&hl
+  scholar: https://scholar.google.com/citations?user=x3TEgPQAAAAJ&hl=en
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
