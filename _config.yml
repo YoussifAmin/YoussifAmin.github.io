@@ -21,16 +21,16 @@ footer-links:
   email: f.sakr@qmul.ac.uk
   facebook: 
   flickr:
-  github: https://github.com/FouadSakr
+  github: FouadSakr
   instagram:
-  linkedin: https://www.linkedin.com/in/fouad-sakr
+  linkedin: fouad-sakr
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/Fouad__Sakr
+  twitter: Fouad__Sakr
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  scholar: https://scholar.google.com/citations?user=x3TEgPQAAAAJ&hl=en
+  scholar: x3TEgPQAAAAJ&hl
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
