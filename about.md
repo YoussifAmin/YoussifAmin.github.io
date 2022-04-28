@@ -15,7 +15,7 @@ I am currently working under the supervision of [Francesco Bellotti](http://phd-
 Details of my publications can be found on my <a href="https://scholar.google.com/citations?user=x3TEgPQAAAAJ&hl=en">Google Scholar profile</a>
 
 ### Software
-[ELM](https://github.com/Edge-Learning-Machine) (Edge Learning Machine) is a environment for embedded machine and deep learning:
+[ELM](https://github.com/Edge-Learning-Machine) (Edge Learning Machine) is an environment for embedded machine and deep learning:
 - [Desk-LM](https://github.com/Edge-Learning-Machine/Desk-LM) is a python environment for training machine learning models,
 - [Micro-LM](https://github.com/Edge-Learning-Machine/Micro-LM) is an a plain C inference library for machine learning on edge devices,
 - [Autonomous-Edge-Pipeline](https://github.com/Edge-Learning-Machine/Autonomous-Edge-Pipeline) is a self-learning autonomous edge learning and inferencing pipeline for resource-constrained embedded system,
