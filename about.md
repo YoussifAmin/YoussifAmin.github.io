@@ -19,7 +19,7 @@ Details of my publications can be found on my <a href="https://scholar.google.co
 - [Desk-LM](https://github.com/Edge-Learning-Machine/Desk-LM) is a python environment for training machine learning models,
 - [Micro-LM](https://github.com/Edge-Learning-Machine/Micro-LM) is a plain C inference library for machine learning on edge devices,
 - [Autonomous-Edge-Pipeline](https://github.com/Edge-Learning-Machine/Autonomous-Edge-Pipeline) is a self-learning autonomous edge learning and inferencing pipeline for resource-constrained embedded system,
-- BNN-Micro is an inference engine for Binarized Neural Networks on embedded systems: **in progress**.
+- CBin-NN is an inference engine for Binarized Neural Networks on resource-constrained devices: **in progress**.
 
 ### Teaching
 Queen Mary University of London:
