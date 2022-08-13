@@ -6,7 +6,7 @@ permalink: /
 ### About me
 <div align="left"> I am a Ph.D. student in the Joint Doctoral Programme in Interactive and Cognitive Environments (JD ICE) organized by the Centre for Intelligent Sensing at Queen Mary University of London and the Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture at University of Genova. 
 
-My current research interest involves TinyML, Edge Intelligence, Embedded Computer Vision, Binary Neural Network. </div>
+My current research interest involves TinyML, Edge Intelligence, Embedded Computer Vision, Binary Neural Network and Memory Optimization. </div>
 
 ### Team
 I am currently working under the supervision of [Francesco Bellotti](http://phd-jdice.diten.unige.it/index.php/team/board-members/item/19-francesco-bellotti), [Riccardo Berta](https://about.me/riccardo.berta), and [Joseph Doyle](http://eecs.qmul.ac.uk/profiles/doylejoseph.html).
