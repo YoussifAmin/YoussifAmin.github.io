@@ -6,7 +6,7 @@ permalink: /
 ### About me
 <div align="left"> I am a Ph.D. student in the Joint Doctoral Programme in Interactive and Cognitive Environments (JD ICE) organized by the Centre for Intelligent Sensing at Queen Mary University of London and the Department of Electrical, Electronic, Telecommunications Engineering and Naval Architecture at University of Genova. 
 
-My current research interest involves Artificial Intelligence, Embedded Machine and Deep Learning, Edge Computing, Binary Neural Network, and model optimization for efficient deployment in constrained devices. </div>
+My current research interest involves TinyML, Edge Intelligence, Embedded Computer Vision, Binary Neural Network. </div>
 
 ### Team
 I am currently working under the supervision of [Francesco Bellotti](http://phd-jdice.diten.unige.it/index.php/team/board-members/item/19-francesco-bellotti), [Riccardo Berta](https://about.me/riccardo.berta), and [Joseph Doyle](http://eecs.qmul.ac.uk/profiles/doylejoseph.html).
@@ -19,7 +19,7 @@ Details of my publications can be found on my <a href="https://scholar.google.co
 - [Desk-LM](https://github.com/Edge-Learning-Machine/Desk-LM) is a python environment for training machine learning models,
 - [Micro-LM](https://github.com/Edge-Learning-Machine/Micro-LM) is a plain C inference library for machine learning on edge devices,
 - [Autonomous-Edge-Pipeline](https://github.com/Edge-Learning-Machine/Autonomous-Edge-Pipeline) is a self-learning autonomous edge learning and inferencing pipeline for resource-constrained embedded system,
-- [CBi-NN](https://edge-learning-machine.github.io/CBin-NN/) is an inference engine for Binarized Neural Networks on resource-constrained devices.
+- [CBin-NN](https://edge-learning-machine.github.io/CBin-NN/) is an inference engine for Binarized Neural Networks on resource-constrained devices.
 
 ### Teaching
 Queen Mary University of London:
