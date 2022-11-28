@@ -25,4 +25,3 @@ Lebanese Ministry of Culture:
  
 Univeristy of Genova:
  -	Teaching Assistant (A_ING_01) - Fall 2023
-  
