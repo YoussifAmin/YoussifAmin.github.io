@@ -17,5 +17,5 @@ Lebanese Ministry of Culture:
 - Arduino Workshop - Summer 2019
  
 Univeristy of Genova:
- -	Teaching Assistant (A_ING_01) - Fall 2023 
+ -	Teaching Assistant (A_ING_01) - Fall 2023
   
