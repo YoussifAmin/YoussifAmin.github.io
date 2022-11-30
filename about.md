@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 ### About me
-<div align="left">I am a Ph.D. student in the Intelligent Electronic Systems branch in the Department of Naval, Electrical, Electronic, and Telecommunications Engineering (DITEN) at the University of Genoa, COSMIC Laboratory. My research intrest involves Tactile Sensing Systems, E-skin, Restoration of sense of touch, Sensorized Robot Gripper, Electrotactile Stimulation, ML/DL for tactile sensing applications such as Hardness detection, Object detection. </div>
+<div align="left">I am a Ph.D. student in the Intelligent Electronic Systems branch in the Department of Naval, Electrical, Electronic, and Telecommunications Engineering (DITEN) at the University of Genoa, COSMIC Laboratory. My research interest involves Tactile Sensing Systems, E-skin, Restoration of sense of touch, Sensorized Robot Gripper, Electrotactile Stimulation, ML/DL for tactile sensing applications such as Hardness detection, Object detection. </div>
 
 ### Team
 I am currently working under the supervision of [Maurizio Valle](https://rubrica.unige.it/personale/VUZDW15s) and [Christian Gianoglio](https://rubrica.unige.it/personale/VkZHWVxt).
