@@ -20,7 +20,8 @@ I completed my <strong>PhD in Electronics and Telecommunications Engineering</st
 - Lab: Nanobiointeractions & Nanodiagnostics · Supervisor: Dr. Pier Paolo Pompa
 
 **Ph.D. in Electronics and Telecommunications Engineering** · University of Genova *(Nov 2019 – Nov 2022)*
-- Thesis: *Artificial Intelligence-Based Tactile Sensing System for Robotic Applications*
+- Thesis: *Signal and Information Processing Methods for Embedded Robotic Tactile Sensing 
+Systems*
 - Supervisor: Prof. Maurizio Valle · Department: DITEN
 
 **M.Sc. in Biomedical Engineering** · Lebanese International University (LIU) *(Oct 2017 – Jun 2019)*
