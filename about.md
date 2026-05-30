@@ -9,18 +9,28 @@ permalink: /
 <div align="left">
 I am a Postdoctoral Researcher at the <strong>Istituto Italiano di Tecnologia (IIT)</strong>, Genova, Italy, in the Nanobiointeractions & Nanodiagnostics Laboratory (supervisor: Dr. Pier Paolo Pompa). My postdoctoral work focuses on <strong>computer vision and machine learning for intelligent Point-of-Care (POC) diagnostic systems</strong>, including smartphone-integrated pipelines for biomarker detection in human saliva (antioxidants, α-amylase) using YOLOv4, YOLOv8, and CNN-based architectures.
 
-I previously completed my <strong>PhD in Electronics and Telecommunications Engineering</strong> at the University of Genova (DITEN Department, COSMIC Laboratory), under the supervision of Prof. Maurizio Valle and Dr. Christian Gianoglio. My doctoral research developed <strong>AI-based tactile sensing systems for robotic applications</strong>, including real-time hardness classification using piezoelectric P(VDF-TrFE) sensor patches deployed on a Baxter robot, with computationally light ML algorithms designed for embedded edge devices.
+I completed my <strong>PhD in Electronics and Telecommunications Engineering</strong> at the University of Genova (DITEN Department, COSMIC Laboratory), under the supervision of Prof. Maurizio Valle and Dr. Christian Gianoglio. My doctoral research developed <strong>AI-based tactile sensing systems for robotic applications</strong>, including real-time hardness classification using piezoelectric P(VDF-TrFE) sensor patches deployed on a Baxter robot, with computationally light ML algorithms designed for embedded edge devices.
 </div>
 
 ---
+## Education
 
-## Research Interests
+**PostDoc** · Istituto Italiano di Tecnologia (IIT), Genova *(June 2023 – Present)*
+- Computer vision for intelligent sensing within Point-of-Care systems
+- Lab: Nanobiointeractions & Nanodiagnostics · Supervisor: Dr. Pier Paolo Pompa
 
-- **Tactile Sensing Systems** — E-skin, piezoelectric sensors, robotic gripper sensorization, hardness and object classification
-- **Computer Vision for POC Diagnostics** — Colorimetric assay analysis, object detection (YOLOv4/v8), image segmentation, smartphone deployment
-- **ML/DL on Embedded Systems** — Single-layer feed-forward neural networks (SLFNNs), ELM, C-implementation on STM32, trade-off between accuracy and computational cost
-- **Salivary Biomarker Quantification** — Total antioxidant concentration, α-amylase activity, ensemble learning, stacking
-- **Point-of-Care Hardware Design** — Custom imaging devices (SCHEDA), gold nanoparticle detection, prototype development
+**Ph.D. in Electronics and Telecommunications Engineering** · University of Genova *(Nov 2019 – Nov 2022)*
+- Thesis: *Artificial Intelligence-Based Tactile Sensing System for Robotic Applications*
+- Supervisor: Prof. Maurizio Valle · Department: DITEN
+
+**M.Sc. in Biomedical Engineering** · Lebanese International University (LIU) *(Oct 2017 – Jun 2019)*
+- GPA: 3.67 / 4.0 — Dean's Honor List
+- 1st Place, Best Thesis Award (LIU)
+- Supervisor: Dr. Ali Hag-Diab
+
+**B.Sc. in Electronics Engineering / Biomedical Emphasis** · Lebanese International University (LIU) *(Oct 2014 – Jun 2017)*
+- GPA: 3.65 / 4.0 — Dean's Honor List
+- Supervisor: Dr. Ali Hag-Diab
 
 ---
 
@@ -88,34 +98,11 @@ DOI: [10.1109/ICECS53924.2021.9665554](https://doi.org/10.1109/ICECS53924.2021.9
 
 ---
 
-## Education
-
-**PostDoc** · Istituto Italiano di Tecnologia (IIT), Genova *(June 2023 – Present)*
-- Computer vision for intelligent sensing within Point-of-Care systems
-- Lab: Nanobiointeractions & Nanodiagnostics · Supervisor: Dr. Pier Paolo Pompa
-
-**Ph.D. in Electronics and Telecommunications Engineering** · University of Genova *(Nov 2019 – Nov 2022)*
-- Thesis: *Artificial Intelligence-Based Tactile Sensing System for Robotic Applications*
-- Supervisor: Prof. Maurizio Valle · Department: DITEN
-
-**M.Sc. in Biomedical Engineering** · Lebanese International University (LIU) *(Oct 2017 – Jun 2019)*
-- GPA: 3.67 / 4.0 — Dean's Honor List
-- 1st Place, Best Thesis Award (LIU)
-- Supervisor: Dr. Ali Hag-Diab
-
-**B.Sc. in Electronics Engineering / Biomedical Emphasis** · Lebanese International University (LIU) *(Oct 2014 – Jun 2017)*
-- GPA: 3.65 / 4.0 — Dean's Honor List
-- Supervisor: Dr. Ali Hag-Diab
-
----
-
 ## Teaching
 
-**University of Genova** *(PostDoc, 2023–2025)*
-- Teaching Assistant and tutor in engineering courses (C++, C#) — approx. 1.5 years of didactic support
-
-**University of Genova** *(PhD, Fall 2023)*
-- Teaching Assistant — Course A_ING_01
+**University of Genova** *(PhD, 2023–2025)*
+- Teaching Assistant - Course A_ING_01
+- Tutor in engineering courses (C++, C#) - approx. 1.5 years of didactic support
 
 **Lebanese Ministry of Culture** *(Summer 2019)*
 - Arduino Workshop — Hardware programming and electronics for participants of varying backgrounds
@@ -124,10 +111,10 @@ DOI: [10.1109/ICECS53924.2021.9665554](https://doi.org/10.1109/ICECS53924.2021.9
 
 ## Skills
 
-**Programming:** Python (TensorFlow, Keras, Scikit-learn, NumPy, Pandas), C/C++, C#, MATLAB, SQL, basic LLM integration
+**Programming:** Python (TensorFlow, Pytorch, Keras, Scikit-learn, NumPy, Pandas), C/C++, C#, MATLAB, SQL, basic LLM integration
 
 **Tools:** Docker, STM32 Cube IDE, LabVIEW, MySQL, Circuit Design (Proteus), Fusion 360, PSpice
 
 **Hardware:** Data Acquisition Devices (DAQ), Arduino, STM32 Microcontrollers, Baxter Robot, Cartesian Robot
 
-**Languages:** English (fluent), Italian (intermediate)
+**Languages:** English (fluent), Italian (intermediate), Arabic (fluent)
