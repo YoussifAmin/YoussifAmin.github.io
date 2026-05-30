@@ -13,7 +13,7 @@ I completed my <strong>PhD in Electronics and Telecommunications Engineering</st
 </div>
 
 ---
-## Education
+## Education & Work Experince
 
 **PostDoc** · Istituto Italiano di Tecnologia (IIT), Genova *(June 2023 – Present)*
 - Computer vision for intelligent sensing within Point-of-Care systems
